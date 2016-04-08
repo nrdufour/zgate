@@ -1,0 +1,4 @@
+NOTICE
+------
+
+The zigbee parser (zparser) has been heavily inspired by the zigbee code from <https://github.com/danw/zigbee>.

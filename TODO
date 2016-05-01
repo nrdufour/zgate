@@ -2,5 +2,4 @@ TODO
 ----
 
 + make it configurable
-+ make it packaged into a rel
 + make it more robust when the device isn't using the right modes

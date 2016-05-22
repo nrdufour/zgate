@@ -5,7 +5,7 @@
 -export([stop/1]).
 
 start(_Type, _Args) ->
-    zgate_sup:start_link().
+  zgate_sup:start_link().
 
 stop(_State) ->
-    ok.
+  ok.
